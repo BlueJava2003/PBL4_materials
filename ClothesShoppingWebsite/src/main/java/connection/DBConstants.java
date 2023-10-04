@@ -5,7 +5,7 @@ public class DBConstants {
 		 
 	}
 	
-	public static final String APPLICATION_PROPERTIES = "application.properties"; 	
+	public static final String APPLICATION_PROPERTIES = "E:\\CNTT\\PBL4\\ClothesShoppingWebsite\\application.properties"; 	
 	
 	public static final String DRIVER = "DRIVER";
 	public static final String URL = "URL";
